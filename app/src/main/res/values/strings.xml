@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KotlinRoom</string>
+    <string name="item_name">ItemName</string>
+    <string name="item_no">5</string>
+</resources>
